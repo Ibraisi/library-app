@@ -143,7 +143,7 @@ export const SearchBookPage = () => {
               </button>
               <ul
                 className="dropdown-menu"
-                aria-aria-labelledby="dropdownMenuButton1"
+                aria-labelledby="dropdownMenuButton1"
               >
                 <li onClick={() => categoryField("All")}>
                   <a href="#" className="dropdown-item">

@@ -14,7 +14,10 @@ export const Heros = () => {
               able to provide the top content for you!
             </p>
 
-            <a className="btn main-color btn-lg text-white" href="#">
+            <a
+              className="btn main-colorwllll btn-primary btn-lg text-white"
+              href="#"
+            >
               Sign up
             </a>
           </div>
